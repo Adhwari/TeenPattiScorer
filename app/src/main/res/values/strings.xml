@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TeenPattiScorer</string>
+    <string name="teenPattiScorer">Teen Patti Scorer!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_Game">New Game</string>
+    <string name="title_activity_new_game">New Game</string>
+    <string name="hello_world">New Game!</string>
+    <string name="title_activity_start_game">Start Game</string>
+    <string name="configuration">configuration</string>
+    <string name="tableValueLabel">Table Value</string>
+    <string name="configDone">Done</string>
+    <string name="title_activity_configuration">Configuration</string>
+
+</resources>
